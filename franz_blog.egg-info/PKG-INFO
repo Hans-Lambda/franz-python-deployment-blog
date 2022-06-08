@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: franz-blog
-Version: 0.3
-Summary: This is the blog system created by Mathias and then crippled by Franz
+Version: 0.6
+Summary: This is the blog system created by Mathias and then crippled by Franz - changed description to see if token works
 Home-page: https://github.com/Hans-Lambda/franz-python-deployment-blog
 Author: Franz Bandelin, copied from Mathias Brito
 Author-email: franz@whatever.com
