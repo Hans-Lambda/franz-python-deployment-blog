@@ -1,12 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    version="0.2",
-    name="mathias-blog",
-    author="Mathias Santos de Brito",
-    author_email="mathias@mathias.com",
-    description="This is the blog system created by Mathias",
-    url="https://github.com/blog-mathias",
+    version="0.4",
+    name="franz-blog",
+    author="Franz Bandelin, copied from Mathias Brito",
+    author_email="franz@whatever.com",
+    description="This is the blog system created by Mathias and then crippled by Franz",
+    long_description="I still hate Testpypy naming conventions!",
+    url="https://github.com/Hans-Lambda/franz-python-deployment-blog",
     license="MIT",
     keywords="blog bms",
     requires=[],
