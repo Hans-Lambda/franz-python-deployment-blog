@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    version="0.6",
+    version="0.7",
     name="franz-blog",
     author="Franz Bandelin, copied from Mathias Brito",
     author_email="franz@whatever.com",
