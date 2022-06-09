@@ -10,7 +10,7 @@ setup(
     url="https://github.com/Hans-Lambda/franz-python-deployment-blog",
     license="MIT",
     keywords="blog bms",
-    requires=[],
+    requires=[],        # here we name the needed packages like Django, Fastapi, etc
     packages=find_packages(),
     entry_points={
         "console_scripts": ['funny=blog.main:main']
